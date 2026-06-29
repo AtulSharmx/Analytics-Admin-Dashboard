@@ -1,6 +1,6 @@
 # Analytics Admin Dashboard
 
-Live Demo: [ADD VERCEL LINK HERE]
+Live Demo: https://analytics-admin-dashboard-gold.vercel.app/
 
 ## Screenshots
 
