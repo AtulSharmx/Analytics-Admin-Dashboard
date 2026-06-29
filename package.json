@@ -1,9 +1,0 @@
-{
-  "name": "analytics-admin-dashboard",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Modern Analytics Admin Dashboard in Pure HTML, CSS, and JS",
-  "scripts": {
-    "start": "npx serve ."
-  }
-}
